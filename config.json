@@ -1,0 +1,104 @@
+{
+    "primitive":
+    {
+        "slots": 0,
+        "stacksize": 0,
+        "weightreduction": 0,
+        "weight": 0,
+        "durability": 0,
+        "armour": 0,
+        "unbreakable": false,
+        "repairbroken": false,
+        "tickrepair": false,
+        "itemindrop": false,
+        "engramindrop": false,
+        "repairtek": false,
+        "equiprequired": false,
+        "repaircostsdurability": false
+    },
+    "ramshackle":
+    {
+        "slots": 0,
+        "stacksize": 0,
+        "weightreduction": 0,
+        "weight": 0,
+        "durability": 0,
+        "armour": 0,
+        "unbreakable": false,
+        "repairbroken": false,
+        "tickrepair": false,
+        "itemindrop": false,
+        "engramindrop": false,
+        "repairtek": false,
+        "equiprequired": false,
+        "repaircostsdurability": false
+    },
+    "apprentice":
+    {
+        "slots": 0,
+        "stacksize": 0,
+        "weightreduction": 0,
+        "weight": 0,
+        "durability": 0,
+        "armour": 0,
+        "unbreakable": false,
+        "repairbroken": false,
+        "tickrepair": false,
+        "itemindrop": false,
+        "engramindrop": false,
+        "repairtek": false,
+        "equiprequired": false,
+        "repaircostsdurability": false
+    },
+    "journeyman":
+    {
+        "slots": 0,
+        "stacksize": 0,
+        "weightreduction": 0,
+        "weight": 0,
+        "durability": 0,
+        "armour": 0,
+        "unbreakable": false,
+        "repairbroken": false,
+        "tickrepair": false,
+        "itemindrop": false,
+        "engramindrop": false,
+        "repairtek": false,
+        "equiprequired": false,
+        "repaircostsdurability": false
+    },
+    "mastercraft":
+    {
+        "slots": 0,
+        "stacksize": 0,
+        "weightreduction": 0,
+        "weight": 0,
+        "durability": 0,
+        "armour": 0,
+        "unbreakable": false,
+        "repairbroken": false,
+        "tickrepair": false,
+        "itemindrop": false,
+        "engramindrop": false,
+        "repairtek": false,
+        "equiprequired": false,
+        "repaircostsdurability": false
+    },
+    "ascendant":
+    {
+        "slots": 0,
+        "stacksize": 0,
+        "weightreduction": 0,
+        "weight": 0,
+        "durability": 0,
+        "armour": 0,
+        "unbreakable": false,
+        "repairbroken": false,
+        "tickrepair": false,
+        "itemindrop": false,
+        "engramindrop": false,
+        "repairtek": false,
+        "equiprequired": false,
+        "repaircostsdurability": false
+    }
+}
