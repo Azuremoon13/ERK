@@ -89,7 +89,7 @@
         "slots": 0,
         "stacksize": 0,
         "weightreduction": 100,
-        "weight": 1000,
+        "weight": 0,
         "durability": 1,
         "armour": 150,
         "unbreakable": true,
