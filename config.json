@@ -94,7 +94,7 @@
         "armour": 150,
         "unbreakable": true,
         "repairbroken": true,
-        "tickrepair": false,
+        "tickrepair": true,
         "itemindrop": true,
         "engramindrop": false,
         "repairtek": true,
